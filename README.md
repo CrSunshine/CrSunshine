@@ -1,4 +1,4 @@
-# Your Name
+# CrSunshine
 
 **Finance × Data × AI × Engineering**
 
@@ -13,7 +13,7 @@ I am a finance-domain professional building data-driven and AI-native financial 
 
 ## Featured Work
 
-**[Qlib Alpha158 Replication](../qlib-alpha158-replication/)** — A reproducible study of Microsoft Qlib's CSI300 Alpha158 + LightGBM benchmark, including data provenance, signal evaluation, portfolio backtesting, and replication-error analysis.
+**[Qlib Alpha158 Replication](https://github.com/CrSunshine/qlib-alpha158-replication)** — A reproducible study of Microsoft Qlib's CSI300 Alpha158 + LightGBM benchmark, including data provenance, signal evaluation, portfolio backtesting, and replication-error analysis.
 
 ## Research Interests
 
@@ -50,8 +50,4 @@ flowchart LR
 
 ## Contact
 
-- LinkedIn: `[add URL]`
-- Email: `[add professional email]`
-- Website: `[add URL]`
-
-_Replace the name and contact placeholders before publishing._
+- GitHub: [@CrSunshine](https://github.com/CrSunshine)
